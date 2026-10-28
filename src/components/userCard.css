@@ -1,0 +1,20 @@
+.user-card {
+  width: 220px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+.user-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.user-card h2 {
+  margin-top: 15px;
+  font-size: 20px;
+}
